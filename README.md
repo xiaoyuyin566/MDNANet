@@ -26,7 +26,7 @@ We evaluate on multiple **SIRST (Single-frame Infrared Small Target)** datasets:
 - **SIRST-v1** [[download]](https://github.com/YimianDai/sirst) [[paper]](https://ieeexplore.ieee.org/document/9058096)
 - **NUDT-SIRST** [[download]](https://github.com/wanghuanphd/MDvsFA_cGAN) [[paper]](https://ieeexplore.ieee.org/document/9353139)
 - **IRSTD-1K** [[download dir]](https://github.com/RuiZhang97/ISNet) [[paper]](https://ieeexplore.ieee.org/document/9664615)
-- **NAB-SIRST (ours)** [[download]](./dataset/NAB-SIRST)
+- **NAB-SIRST (ours)** [[download]](https://pan.baidu.com/s/1ANOtQmkzTig6JexNDWOE6Q?pwd=smd5)
 
 Each dataset contains **infrared small targets with diverse cluttered backgrounds**, annotated at pixel-level for supervised training.
 
@@ -62,6 +62,8 @@ python train.py \
 ```
 
 ### 2. Test  
+
+获取权重文件的百度网盘链接：[链接](https://pan.baidu.com/s/1JCCAvCEjzMkne55XxxNGsA?pwd=6trf)
 
 ```bash
 python test.py \
